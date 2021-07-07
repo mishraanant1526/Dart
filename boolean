@@ -1,0 +1,10 @@
+main(List<String>arguments){
+  bool isOn =true;
+  print('isOn = ${isOn}');
+  isOn=true;
+  print('isOn =${isOn}');
+  
+  isOn=false;
+  print('isOn= ${isOn}');
+  
+}
