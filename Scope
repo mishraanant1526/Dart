@@ -1,0 +1,10 @@
+main(List<String>arguments){
+int age=46;
+      bool hasBills = true;
+  if(age==43){
+    print('you are 43');
+  }else{
+
+    print('you are  ${age} and has ${hasBills}');
+  }
+  }
